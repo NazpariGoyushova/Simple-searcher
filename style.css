@@ -47,7 +47,7 @@ input{
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: .6s;
+    transition: .5s;
     transition-delay: .2s;
 }
 
